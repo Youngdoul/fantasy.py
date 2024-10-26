@@ -7,6 +7,11 @@ This is a simple proof of concept for an open-world game using Python and Pygame
 - Python 3.x
 - Pygame
 
-## Installation
+## Installation and compile
 1. Clone this repository:
+2. have python installed
+3. install pygame with pip install pygame
+4. press run button on top right or python main.py in terminal
+
+
 
